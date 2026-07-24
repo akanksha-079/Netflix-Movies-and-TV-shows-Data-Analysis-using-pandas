@@ -52,6 +52,7 @@ This project analyzes the Netflix Movies & TV Shows dataset using Python and Pan
 - DAV PROJECT.pdf
 - README.md
 - requirements.txt
+- images
 
 ## Author
 
