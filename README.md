@@ -49,7 +49,7 @@ This project analyzes the Netflix Movies & TV Shows dataset using Python and Pan
 
 - netflix_analysis.ipynb
 - netflix_titles.csv
-- DAV PROJECT.pdf
+- Project report.pdf
 - README.md
 - requirements.txt
 - images
